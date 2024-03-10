@@ -31,6 +31,10 @@ VoyageVR is a virtual reality application that allows users to explore the world
 ### Contributors:
 
 - [Lakshay Bhushan](https://github.com/lakshaybhushan) (Core Developer/Maintainer)
+- Daksh Sammi (Initial Contributor)
+- Yajat Gupta (Pitching Expert)
+- Yugayu Garg (Innovator)
+- Sidhant K Agrawal (Innovator)
 
 ### Demo Video:
 
