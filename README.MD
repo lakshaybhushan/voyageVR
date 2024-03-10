@@ -13,6 +13,9 @@
 
 VoyageVR is a virtual reality application that allows users to explore the world in a 3D environment. The application uses the Cesium API to render the 3D globe and the Oculus SDK to provide a virtual reality experience. The application is built using Unity and C#.
 
+**Note:** This repository is also associated with [voyageVR-HotelRoomTour](https://github.com/lakshaybhushan/voyageVR-HotelRoomTour), a sub-project of voyageVR. Also open to contributions and suggestions :)
+
+
 ### Key Features:
 
 - Enter a location's coordinates and view it in VR
@@ -39,3 +42,25 @@ VoyageVR is a virtual reality application that allows users to explore the world
 ### Demo Video:
 
 [![VoyageVR Demo](https://i9.ytimg.com/vi_webp/XRB4R5pSy2Y/mqdefault.webp?v=65ee0b43&sqp=CLiUuK8G&rs=AOn4CLCIVYak5eJjUYlZHMg98ZeS0FQANg)](https://youtu.be/XRB4R5pSy2Yh)
+
+### How to run the project:
+
+- Clone the repository using
+
+```bash
+git clone https://github.com/lakshaybhushan/voyageVR.git
+```
+
+
+***Please don't download the project as **.zip** from the github, this project is huge and utilizes Git LFS so always try to use git clone***
+
+- Open the project in Unity and hit the play button to run the application in the Unity Editor
+
+- To run the application on the Oculus Quest 2, follow the steps below:
+
+  - Build the project using the Unity Editor
+  - Connect the Oculus Quest 2 to the computer
+  - Open the project in the Oculus Developer Hub
+  - Build and run the project on the Oculus Quest 2
+
+- Enjoy the VR experience!
