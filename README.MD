@@ -41,7 +41,7 @@ VoyageVR is a virtual reality application that allows users to explore the world
 
 ### Demo Video:
 
-[![VoyageVR Demo](https://i9.ytimg.com/vi_webp/XRB4R5pSy2Y/mqdefault.webp?v=65ee0b43&sqp=CLiUuK8G&rs=AOn4CLCIVYak5eJjUYlZHMg98ZeS0FQANg)](https://youtu.be/XRB4R5pSy2Yh)
+[![VoyageVR Demo](https://tuberanker.com/storage/images/data/can-i-use-someone-elses-video-on-my-youtube-channel.png)](https://youtu.be/XRB4R5pSy2Yh)
 
 ### How to run the project:
 
