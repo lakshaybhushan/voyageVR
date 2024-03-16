@@ -15,7 +15,6 @@ VoyageVR is a virtual reality application that allows users to explore the world
 
 **Note:** This repository is also associated with [voyageVR-HotelRoomTour](https://github.com/lakshaybhushan/voyageVR-HotelRoomTour), a sub-project of voyageVR. Also open to contributions and suggestions :)
 
-
 ### Key Features:
 
 - Enter a location's coordinates and view it in VR
@@ -34,10 +33,10 @@ VoyageVR is a virtual reality application that allows users to explore the world
 ### Contributors:
 
 - [Lakshay Bhushan](https://github.com/lakshaybhushan) (Core Developer/Maintainer)
-- Daksh Sammi (Initial Contributor)
-- Yajat Gupta (Pitching Expert)
-- Yugayu Garg (Innovator)
-- Sidhant K Agrawal (Innovator)
+- [Daksh Sammi](https://github.com/DakshSammi) (Idea Contributor/Innovator)
+- [Yajat Gupta](https://github.com/YajatGupta22?tab=repositories) (Idea Contributor/Presenter)
+- [Sidhant K Agrawal](https://www.linkedin.com/in/sidhant-kumar-agrawal-115a4822a/) (Idea Contributor/Innovator)
+- [Yugayu Garg](https://github.com/yug1110) (Idea Presenter/Innovator)
 
 ### Demo Video:
 
@@ -51,8 +50,7 @@ VoyageVR is a virtual reality application that allows users to explore the world
 git clone https://github.com/lakshaybhushan/voyageVR.git
 ```
 
-
-***Please don't download the project as **.zip** from the github, this project is huge and utilizes Git LFS so always try to use git clone***
+**\*Please don't download the project as **.zip** from the github, this project is huge and utilizes Git LFS so always try to use git clone\***
 
 - Open the project in Unity and hit the play button to run the application in the Unity Editor
 
